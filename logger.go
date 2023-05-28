@@ -1,7 +1,5 @@
 package logger
 
-package logger
-
 import (
 	"fmt"
 	"log"
